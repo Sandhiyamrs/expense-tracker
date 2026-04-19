@@ -25,13 +25,21 @@ This project solves that problem by providing a simple command-line tool to reco
 ## 📁 Project Structure
 
 expense-tracker-cli/
+
 │── main.py # Main application (CLI + menu)
+
 │── expense.py # Expense class (data model)
+
 │── storage.py # JSON read/write operations
+
 │── utils.py # Helper functions
+
 │── data/
+
 │ └── expenses.json # Stored data
+
 │── README.md
+
 │── requirements.txt
 
 
